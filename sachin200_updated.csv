@@ -1,0 +1,201 @@
+Bat1 ,Bat2 ,Runs ,Wkts ,Conc ,Ct ,St ,Opposition ,Ground ,Start DateAscending ,testID,year,ID,Result,Where?,cBat1,cBat2,YearMatchID
+15,DNB ,15,0,25,0,0,v Pakistan ,Karachi ,15-Nov-89,Test # 1127,1989,3,draw ,Foreign,15,,3
+59,8,67,,,1,0,v Pakistan ,Faisalabad ,23-Nov-89,Test # 1128,1989,2,draw ,Foreign,59,8,2
+41,- ,41,- ,- ,0,0,v Pakistan ,Lahore ,1-Dec-89,Test # 1130,1989,1,draw ,Foreign,41,,1
+35,57,92,- ,- ,0,0,v Pakistan ,Sialkot ,9-Dec-89,Test # 1132,1989,2,draw ,Foreign,35,57,2
+0,24,24,- ,- ,0,0,v New Zealand ,Christchurch ,2-Feb-90,Test # 1136,1990,3,lost ,Foreign,0,24,1
+88,- ,88,- ,- ,0,0,v New Zealand ,Napier ,9-Feb-90,Test # 1138,1990,4,draw ,Foreign,88,,2
+5,DNB ,5,- ,- ,1,0,v New Zealand ,Auckland ,22-Feb-90,Test # 1139,1990,5,draw ,Foreign,5,,3
+10,27,37,- ,- ,1,0,v England ,Lord's ,26-Jul-90,Test # 1148,1990,6,lost ,Foreign,10,27,4
+68,119* ,187,- ,- ,2,0,v England ,Manchester ,9-Aug-90,Test # 1149,1990,7,draw ,Foreign,68,119,5
+21,- ,21,- ,- ,0,0,v England ,The Oval ,23-Aug-90,Test # 1150,1990,8,draw ,Foreign,21,,6
+11,- ,11,- ,- ,0,0,v Sri Lanka ,Chandigarh ,23-Nov-90,Test # 1156,1990,9,won ,India,11,,7
+16,7,23,0,13,0,0,v Australia ,Brisbane ,29-Nov-91,Test # 1177,1991,10,lost ,Foreign,16,7,1
+15,40,55,0,16,2,0,v Australia ,Melbourne ,26-Dec-91,Test # 1180,1991,11,lost ,Foreign,15,40,2
+148* ,- ,148,1,2,1,0,v Australia ,Sydney ,2-Jan-92,Test # 1181,1992,12,draw ,Foreign,148,,1
+6,17,23,2,54,1,0,v Australia ,Adelaide ,25-Jan-92,Test # 1184,1992,13,lost ,Foreign,6,17,2
+114,5,119,0,9,1,0,v Australia ,Perth ,1-Feb-92,Test # 1186,1992,14,lost ,Foreign,114,5,3
+0,- ,0,0,8,0,0,v Zimbabwe ,Harare ,18-Oct-92,Test # 1197,1992,15,draw ,Foreign,0,,4
+11,- ,11,0,3,2,0,v South Africa ,Durban ,13-Nov-92,Test # 1200,1992,16,draw ,Foreign,11,,5
+111,1,112,0,2,1,0,v South Africa ,Johannesburg ,26-Nov-92,Test # 1201,1992,17,draw ,Foreign,111,1,6
+6,0,6,1,9,0,0,v South Africa ,Port Elizabeth ,26-Dec-92,Test # 1206,1992,18,lost ,Foreign,6,0,7
+73,DNB ,73,- ,- ,1,0,v South Africa ,Cape Town ,2-Jan-93,Test # 1209,1993,19,draw ,Foreign,73,,1
+50,9* ,59,- ,- ,1,0,v England ,Kolkata ,29-Jan-93,Test # 1211,1993,20,won ,India,50,9,2
+165,- ,165,0,9,2,0,v England ,Chennai ,11-Feb-93,Test # 1213,1993,21,won ,India,165,,3
+78,- ,78,- ,- ,1,0,v England ,Mumbai ,19-Feb-93,Test # 1214,1993,22,won ,India,78,,4
+62,- ,62,0,11,0,0,v Zimbabwe ,Delhi ,13-Mar-93,Test # 1218,1993,23,won ,India,62,,5
+TDNB ,- ,- ,- ,- ,0,0,v Sri Lanka ,Kandy ,17-Jul-93,Test # 1226,1993,24,draw ,Foreign,,,6
+28,104* ,132,- ,- ,0,0,v Sri Lanka ,Colombo (SSC) ,27-Jul-93,Test # 1228,1993,25,won ,Foreign,28,104,7
+71,- ,71,0,4,3,0,v Sri Lanka ,Colombo (PSS) ,4-Aug-93,Test # 1229,1993,26,draw ,Foreign,71,,8
+142,- ,142,- ,- ,0,0,v Sri Lanka ,Lucknow ,18-Jan-94,Test # 1244,1994,27,won ,India,142,,1
+96,- ,96,- ,- ,2,0,v Sri Lanka ,Bangalore ,26-Jan-94,Test # 1245,1994,28,won ,India,96,,2
+6,- ,6,0,7,0,0,v Sri Lanka ,Ahmedabad ,8-Feb-94,Test # 1247,1994,29,won ,India,6,,3
+43,11* ,54,- ,- ,0,0,v New Zealand ,Hamilton ,19-Mar-94,Test # 1255,1994,30,draw ,Foreign,43,11,4
+34,85,119,0,9,3,0,v West Indies ,Mumbai ,18-Nov-94,Test # 1274,1994,31,won ,India,34,85,5
+179,54,233,- ,- ,2,0,v West Indies ,Nagpur ,1-Dec-94,Test # 1277,1994,32,draw ,India,179,54,6
+40,10,50,0,10,0,0,v West Indies ,Mohali ,10-Dec-94,Test # 1278,1994,33,lost ,India,40,10,7
+4,0* ,4,- ,- ,3,0,v New Zealand ,Bangalore ,18-Oct-95,Test # 1308,1995,34,won ,India,4,0,1
+52* ,- ,52,- ,- ,- ,- ,v New Zealand ,Chennai ,25-Oct-95,Test # 1309,1995,35,draw ,India,52,,2
+2,- ,2,- ,- ,0,0,v New Zealand ,Cuttack ,8-Nov-95,Test # 1310,1995,36,draw ,India,2,,3
+24,122,146,- ,- ,0,0,v England ,Birmingham ,6-Jun-96,Test # 1327,1996,37,lost ,Foreign,24,122,1
+31,- ,31,0,1,2,0,v England ,Lord's ,20-Jun-96,Test # 1328,1996,38,draw ,Foreign,31,,2
+177,74,251,0,28,0,0,v England ,Nottingham ,4-Jul-96,Test # 1329,1996,39,draw ,Foreign,177,74,3
+10,0,10,- ,- ,0,0,v Australia ,Delhi ,10-Oct-96,Test # 1335,1996,40,won ,India,10,0,4
+42,7,49,- ,- ,0,0,v South Africa ,Ahmedabad ,20-Nov-96,Test # 1338,1996,41,won ,India,42,7,5
+18,2,20,- ,- ,0,0,v South Africa ,Kolkata ,27-Nov-96,Test # 1341,1996,42,lost ,India,18,2,6
+61,36,97,- ,- ,1,0,v South Africa ,Kanpur ,8-Dec-96,Test # 1344,1996,43,won ,India,61,36,7
+15,4,19,0,0,2,0,v South Africa ,Durban ,26-Dec-96,Test # 1347,1996,44,lost ,Foreign,15,4,8
+169,9,178,- ,- ,1,0,v South Africa ,Cape Town ,2-Jan-97,Test # 1349,1997,45,lost ,Foreign,169,9,1
+35,9,44,0,18,0,0,v South Africa ,Johannesburg ,16-Jan-97,Test # 1350,1997,46,draw ,Foreign,35,9,2
+7,15* ,22,0,9,1,0,v West Indies ,Kingston ,6-Mar-97,Test # 1357,1997,47,draw ,Foreign,7,15,3
+88,- ,88,- ,- ,0,0,v West Indies ,Port of Spain ,14-Mar-97,Test # 1361,1997,48,draw ,Foreign,88,,4
+92,4,96,- ,- ,3,0,v West Indies ,Bridgetown ,27-Mar-97,Test # 1363,1997,49,lost ,Foreign,92,4,5
+DNB ,- ,- ,- ,- ,1,0,v West Indies ,St John's ,4-Apr-97,Test # 1364,1997,50,draw ,Foreign,,,6
+83,- ,83,- ,- ,0,0,v West Indies ,Georgetown ,17-Apr-97,Test # 1365,1997,51,draw ,Foreign,83,,7
+143,- ,143,0,2,0,0,v Sri Lanka ,Colombo (RPS) ,2-Aug-97,Test # 1374,1997,52,draw ,Foreign,143,,8
+139,8,147,- ,- ,1,0,v Sri Lanka ,Colombo (SSC) ,9-Aug-97,Test # 1376,1997,53,draw ,Foreign,139,8,9
+23,- ,23,- ,- ,1,0,v Sri Lanka ,Mohali ,19-Nov-97,Test # 1385,1997,54,draw ,India,23,,10
+15,- ,15,- ,- ,- ,- ,v Sri Lanka ,Nagpur ,26-Nov-97,Test # 1387,1997,55,draw ,India,15,,11
+148,13,161,0,0,1,0,v Sri Lanka ,Mumbai ,3-Dec-97,Test # 1390,1997,56,draw ,India,148,13,12
+4,155* ,159,- ,- ,1,0,v Australia ,Chennai ,6-Mar-98,Test # 1405,1998,57,won ,India,4,155,1
+79,- ,79,0,6,0,0,v Australia ,Kolkata ,18-Mar-98,Test # 1409,1998,58,won ,India,79,,2
+177,31,208,1,41,1,0,v Australia ,Bangalore ,25-Mar-98,Test # 1413,1998,59,lost ,India,177,31,3
+34,7,41,- ,- ,0,0,v Zimbabwe ,Harare ,7-Oct-98,Test # 1425,1998,60,lost ,Foreign,34,7,4
+47,113,160,2,15,1,0,v New Zealand ,Wellington ,26-Dec-98,Test # 1435,1998,61,lost ,Foreign,47,113,5
+67,DNB ,67,2,53,0,0,v New Zealand ,Hamilton ,2-Jan-99,Test # 1438,1999,62,draw ,Foreign,67,,1
+0,136,136,3,45,0,0,v Pakistan ,Chennai ,28-Jan-99,Test # 1442,1999,63,lost ,India,0,136,2
+6,29,35,- ,- ,0,0,v Pakistan ,Delhi ,4-Feb-99,Test # 1443,1999,64,won ,India,6,29,3
+0,9,9,1,18,0,0,v Pakistan ,Kolkata ,16-Feb-99,Test # 1444,1999,65,lost ,India,0,9,4
+53,124* ,177,0,16,0,0,v Sri Lanka ,Colombo (SSC) ,24-Feb-99,Test # 1445,1999,66,draw ,Foreign,53,124,5
+18,126* ,144,0,11,0,0,v New Zealand ,Mohali ,10-Oct-99,Test # 1462,1999,67,draw ,India,18,126,6
+15,44* ,59,- ,- ,2,0,v New Zealand ,Kanpur ,22-Oct-99,Test # 1464,1999,68,won ,India,15,44,7
+217,15,232,0,19,0,0,v New Zealand ,Ahmedabad ,29-Oct-99,Test # 1465,1999,69,draw ,India,217,15,8
+61,0,61,0,12,0,0,v Australia ,Adelaide ,10-Dec-99,Test # 1476,1999,70,lost ,Foreign,61,0,9
+116,52,168,- ,- ,0,0,v Australia ,Melbourne ,26-Dec-99,Test # 1479,1999,71,lost ,Foreign,116,52,10
+45,4,49,1,34,0,0,v Australia ,Sydney ,2-Jan-00,Test # 1481,2000,72,lost ,Foreign,45,4,1
+97,8,105,3,14,0,0,v South Africa ,Mumbai ,24-Feb-00,Test # 1484,2000,73,lost ,India,97,8,2
+21,20,41,0,33,2,0,v South Africa ,Bangalore ,2-Mar-00,Test # 1486,2000,74,lost ,India,21,20,3
+18,DNB ,18,1,34,0,0,v Bangladesh ,Dhaka ,10-Nov-00,Test # 1512,2000,75,won ,Foreign,18,,4
+122,39,161,1,61,1,0,v Zimbabwe ,Delhi ,18-Nov-00,Test # 1515,2000,76,won ,India,122,39,5
+201* ,- ,201,0,26,2,0,v Zimbabwe ,Nagpur ,25-Nov-00,Test # 1517,2000,77,draw ,India,201,,6
+76,65,141,0,35,1,0,v Australia ,Mumbai ,27-Feb-01,Test # 1531,2001,78,lost ,India,76,65,1
+10,10,20,3,38,0,0,v Australia ,Kolkata ,11-Mar-01,Test # 1535,2001,79,won ,India,10,10,2
+126,17,143,0,78,0,0,v Australia ,Chennai ,18-Mar-01,Test # 1539,2001,80,won ,India,126,17,3
+74,36* ,110,0,23,0,0,v Zimbabwe ,Bulawayo ,7-Jun-01,Test # 1548,2001,81,won ,Foreign,74,36,4
+20,69,89,1,26,0,0,v Zimbabwe ,Harare ,15-Jun-01,Test # 1549,2001,82,lost ,Foreign,20,69,5
+155,15,170,0,27,0,0,v South Africa ,Bloemfontein ,3-Nov-01,Test # 1564,2001,83,lost ,Foreign,155,15,6
+1,22* ,23,1,32,0,0,v South Africa ,Port Elizabeth ,16-Nov-01,Test # 1569,2001,84,draw ,Foreign,1,22,7
+88,DNB ,88,0,4,0,0,v England ,Mohali ,3-Dec-01,Test # 1574,2001,85,won ,India,88,,8
+103,26,129,1,27,3,0,v England ,Ahmedabad ,11-Dec-01,Test # 1575,2001,86,draw ,India,103,26,9
+90,- ,90,0,19,1,0,v England ,Bangalore ,19-Dec-01,Test # 1578,2001,87,draw ,India,90,,10
+176,- ,176,0,11,1,0,v Zimbabwe ,Nagpur ,21-Feb-02,Test # 1589,2002,88,won ,India,176,,1
+36,42,78,0,6,1,0,v Zimbabwe ,Delhi ,28-Feb-02,Test # 1591,2002,89,won ,India,36,42,2
+79,- ,79,0,18,0,0,v West Indies ,Georgetown ,11-Apr-02,Test # 1598,2002,90,draw ,Foreign,79,,3
+117,0,117,0,6,1,0,v West Indies ,Port of Spain ,19-Apr-02,Test # 1599,2002,91,won ,Foreign,117,0,4
+0,8,8,0,8,1,0,v West Indies ,Bridgetown ,2-May-02,Test # 1601,2002,92,lost ,Foreign,0,8,5
+0,- ,0,2,107,0,0,v West Indies ,St John's ,10-May-02,Test # 1602,2002,93,draw ,Foreign,0,,6
+41,86,127,- ,- ,0,0,v West Indies ,Kingston ,18-May-02,Test # 1604,2002,94,lost ,Foreign,41,86,7
+16,12,28,0,14,1,0,v England ,Lord's ,25-Jul-02,Test # 1610,2002,95,lost ,Foreign,16,12,8
+34,92,126,0,15,0,0,v England ,Nottingham ,8-Aug-02,Test # 1612,2002,96,draw ,Foreign,34,92,9
+193,- ,193,- ,- ,0,0,v England ,Leeds ,22-Aug-02,Test # 1613,2002,97,won ,Foreign,193,,10
+54,- ,54,0,4,0,0,v England ,The Oval ,5-Sep-02,Test # 1614,2002,98,draw ,Foreign,54,,11
+35,- ,35,0,2,1,0,v West Indies ,Mumbai ,9-Oct-02,Test # 1616,2002,99,won ,India,35,,12
+43,16* ,59,- ,- ,1,0,v West Indies ,Chennai ,17-Oct-02,Test # 1618,2002,100,won ,India,43,16,13
+36,176,212,0,33,0,0,v West Indies ,Kolkata ,30-Oct-02,Test # 1622,2002,101,draw ,India,36,176,14
+8,51,59,- ,- ,0,0,v New Zealand ,Wellington ,12-Dec-02,Test # 1631,2002,102,lost ,Foreign,8,51,15
+9,32,41,- ,- ,1,0,v New Zealand ,Hamilton ,19-Dec-02,Test # 1633,2002,103,lost ,Foreign,9,32,16
+8,7,15,0,45,0,0,v New Zealand ,Ahmedabad ,8-Oct-03,Test # 1660,2003,104,draw ,India,8,7,1
+55,1,56,1,55,0,0,v New Zealand ,Mohali ,16-Oct-03,Test # 1662,2003,105,draw ,India,55,1,2
+0,DNB ,0,0,9,0,0,v Australia ,Brisbane ,4-Dec-03,Test # 1671,2003,106,draw ,Foreign,0,,3
+1,37,38,2,39,0,0,v Australia ,Adelaide ,12-Dec-03,Test # 1673,2003,107,won ,Foreign,1,37,4
+0,44,44,1,57,2,0,v Australia ,Melbourne ,26-Dec-03,Test # 1678,2003,108,lost ,Foreign,0,44,5
+241* ,60* ,301,0,36,1,0,v Australia ,Sydney ,2-Jan-04,Test # 1680,2004,109,draw ,Foreign,241,60,1
+194* ,- ,194,2,59,1,0,v Pakistan ,Multan ,28-Mar-04,Test # 1693,2004,110,won ,Foreign,194,,2
+2,8,10,1,38,0,0,v Pakistan ,Lahore ,5-Apr-04,Test # 1695,2004,111,lost ,Foreign,2,8,3
+1,- ,1,1,1,0,0,v Pakistan ,Rawalpindi ,13-Apr-04,Test # 1697,2004,112,won ,Foreign,1,,4
+8,2,10,0,41,0,0,v Australia ,Nagpur ,26-Oct-04,Test # 1718,2004,113,lost ,India,8,2,5
+5,55,60,- ,- ,1,0,v Australia ,Mumbai ,3-Nov-04,Test # 1720,2004,114,won ,India,5,55,6
+3,- ,3,0,54,0,0,v South Africa ,Kanpur ,20-Nov-04,Test # 1722,2004,115,draw ,India,3,,7
+20,32* ,52,0,8,0,0,v South Africa ,Kolkata ,28-Nov-04,Test # 1724,2004,116,won ,India,20,32,8
+248* ,- ,248,- ,- ,2,0,v Bangladesh ,Dhaka ,10-Dec-04,Test # 1725,2004,117,won ,Foreign,248,,9
+36,- ,36,1,39,0,0,v Bangladesh ,Chittagong ,17-Dec-04,Test # 1727,2004,118,won ,Foreign,36,,10
+94,DNB ,94,0,30,0,0,v Pakistan ,Mohali ,8-Mar-05,Test # 1738,2005,119,draw ,India,94,,1
+52,52,104,- ,- ,2,0,v Pakistan ,Kolkata ,16-Mar-05,Test # 1741,2005,120,won ,India,52,52,2
+41,16,57,1,76,0,0,v Pakistan ,Bangalore ,24-Mar-05,Test # 1743,2005,121,lost ,India,41,16,3
+22,- ,22,- ,- ,0,0,v Sri Lanka ,Chennai ,2-Dec-05,Test # 1775,2005,122,draw ,India,22,,4
+109,16,125,0,6,0,0,v Sri Lanka ,Delhi ,10-Dec-05,Test # 1776,2005,123,won ,India,109,16,5
+23,19,42,0,13,0,0,v Sri Lanka ,Ahmedabad ,18-Dec-05,Test # 1778,2005,124,won ,India,23,19,6
+DNB ,- ,- ,0,16,0,0,v Pakistan ,Lahore ,13-Jan-06,Test # 1781,2006,125,draw ,Foreign,,,1
+14,DNB ,14,- ,- ,1,0,v Pakistan ,Faisalabad ,21-Jan-06,Test # 1782,2006,126,draw ,Foreign,14,,2
+23,26,49,0,40,3,0,v Pakistan ,Karachi ,29-Jan-06,Test # 1783,2006,127,lost ,Foreign,23,26,3
+16,28* ,44,0,11,0,0,v England ,Nagpur ,1-Mar-06,Test # 1785,2006,128,draw ,India,16,28,4
+4,DNB ,4,- ,- ,0,0,v England ,Mohali ,9-Mar-06,Test # 1788,2006,129,won ,India,4,,5
+1,34,35,- ,- ,1,0,v England ,Mumbai ,18-Mar-06,Test # 1791,2006,130,lost ,India,1,34,6
+44,14,58,- ,- ,1,0,v South Africa ,Johannesburg ,15-Dec-06,Test # 1823,2006,131,won ,Foreign,44,14,7
+63,0,63,- ,- ,2,0,v South Africa ,Durban ,26-Dec-06,Test # 1825,2006,132,lost ,Foreign,63,0,8
+64,14,78,1,33,0,0,v South Africa ,Cape Town ,2-Jan-07,Test # 1827,2007,133,lost ,Foreign,64,14,1
+101,31,132,1,22,2,0,v Bangladesh ,Chittagong ,18-May-07,Test # 1832,2007,134,draw ,Foreign,101,31,2
+122* ,- ,122,2,35,2,0,v Bangladesh ,Dhaka ,25-May-07,Test # 1833,2007,135,won ,Foreign,122,,3
+37,16,53,0,10,1,0,v England ,Lord's ,19-Jul-07,Test # 1840,2007,136,draw ,Foreign,37,16,4
+91,1,92,0,38,2,0,v England ,Nottingham ,27-Jul-07,Test # 1841,2007,137,won ,Foreign,91,1,5
+82,1,83,1,104,1,0,v England ,The Oval ,9-Aug-07,Test # 1842,2007,138,draw ,Foreign,82,1,6
+1,56* ,57,0,8,0,0,v Pakistan ,Delhi ,22-Nov-07,Test # 1849,2007,139,won ,India,1,56,7
+82,DNB ,82,0,39,0,0,v Pakistan ,Kolkata ,30-Nov-07,Test # 1850,2007,140,draw ,India,82,,8
+62,15,77,0,4,2,0,v Australia ,Melbourne ,26-Dec-07,Test # 1855,2007,141,lost ,Foreign,62,15,9
+154* ,12,166,0,20,3,0,v Australia ,Sydney ,2-Jan-08,Test # 1857,2008,142,lost ,Foreign,154,12,1
+71,13,84,- ,- ,0,0,v Australia ,Perth ,16-Jan-08,Test # 1862,2008,143,won ,Foreign,71,13,2
+153,13,166,0,6,0,0,v Australia ,Adelaide ,24-Jan-08,Test # 1863,2008,144,draw ,Foreign,153,13,3
+0,- ,0,- ,- ,0,0,v South Africa ,Chennai ,26-Mar-08,Test # 1870,2008,145,draw ,India,0,,4
+27,12,39,,,0,0,v Sri Lanka ,Colombo (SSC) ,23-Jul-08,Test # 1882,2008,146,lost ,Foreign,27,12,5
+5,31,36,- ,- ,0,0,v Sri Lanka ,Galle ,31-Jul-08,Test # 1884,2008,147,won ,Foreign,5,31,6
+6,14,20,- ,- ,0,0,v Sri Lanka ,Colombo (PSS) ,8-Aug-08,Test # 1886,2008,148,lost ,Foreign,6,14,7
+13,49,62,- ,- ,0,0,v Australia ,Bangalore ,9-Oct-08,Test # 1887,2008,149,draw ,India,13,49,8
+88,10* ,98,- ,- ,1,0,v Australia ,Mohali ,17-Oct-08,Test # 1889,2008,150,won ,India,88,10,9
+68,47,115,0,2,0,0,v Australia ,Delhi ,29-Oct-08,Test # 1891,2008,151,draw ,India,68,47,10
+109,12,121,0,13,1,0,v Australia ,Nagpur ,6-Nov-08,Test # 1892,2008,152,won ,India,109,12,11
+37,103* ,140,- ,- ,0,0,v England ,Chennai ,11-Dec-08,Test # 1898,2008,153,won ,India,37,103,12
+11,5,16,- ,- ,0,0,v England ,Mohali ,19-Dec-08,Test # 1901,2008,154,draw ,India,11,5,13
+160,DNB ,160,- ,- ,1,0,v New Zealand ,Hamilton ,18-Mar-09,Test # 1915,2009,155,won ,Foreign,160,,1
+49,64,113,- ,- ,1,0,v New Zealand ,Napier ,26-Mar-09,Test # 1917,2009,156,draw ,Foreign,49,64,2
+62,9,71,2,45,0,0,v New Zealand ,Wellington ,3-Apr-09,Test # 1918,2009,157,draw ,Foreign,62,9,3
+4,100* ,104,0,20,1,0,v Sri Lanka ,Ahmedabad ,16-Nov-09,Test # 1933,2009,158,draw ,India,4,100,4
+40,- ,40,0,6,1,0,v Sri Lanka ,Kanpur ,24-Nov-09,Test # 1935,2009,159,won ,India,40,,5
+53,- ,53,- ,- ,0,0,v Sri Lanka ,Mumbai (BS) ,2-Dec-09,Test # 1937,2009,160,won ,India,53,,6
+105* ,16,121,- ,- ,0,0,v Bangladesh ,Chittagong ,17-Jan-10,Test # 1949,2010,161,won ,Foreign,105,16,1
+143,DNB ,143,- ,- ,0,0,v Bangladesh ,Dhaka ,24-Jan-10,Test # 1950,2010,162,won ,Foreign,143,,2
+7,100,107,- ,- ,0,0,v South Africa ,Nagpur ,6-Feb-10,Test # 1951,2010,163,lost ,India,7,100,3
+106,- ,106,0,1,0,0,v South Africa ,Kolkata ,14-Feb-10,Test # 1952,2010,164,won ,India,106,,4
+8,84,92,- ,- ,1,0,v Sri Lanka ,Galle ,18-Jul-10,Test # 1964,2010,165,lost ,Foreign,8,84,5
+203,- ,203,- ,- ,0,0,v Sri Lanka ,Colombo (SSC) ,26-Jul-10,Test # 1966,2010,166,draw ,Foreign,203,,6
+41,54,95,- ,- ,1,0,v Sri Lanka ,Colombo (PSS) ,3-Aug-10,Test # 1968,2010,167,won ,Foreign,41,54,7
+98,38,136,- ,- ,0,0,v Australia ,Mohali ,1-Oct-10,Test # 1972,2010,168,won ,India,98,38,8
+214,53* ,267,- ,- ,0,0,v Australia ,Bangalore ,9-Oct-10,Test # 1973,2010,169,won ,India,214,53,9
+40,12,52,0,16,0,0,v New Zealand ,Ahmedabad ,4-Nov-10,Test # 1974,2010,170,draw ,India,40,12,10
+13,DNB ,13,0,7,0,0,v New Zealand ,Hyderabad (Deccan) ,12-Nov-10,Test # 1975,2010,171,draw ,India,13,,11
+61,- ,61,- ,- ,0,0,v New Zealand ,Nagpur ,20-Nov-10,Test # 1978,2010,172,won ,India,61,,12
+36,111* ,147,0,51,0,0,v South Africa ,Centurion ,16-Dec-10,Test # 1985,2010,173,lost ,Foreign,36,111,13
+13,6,19,0,6,0,0,v South Africa ,Durban ,26-Dec-10,Test # 1987,2010,174,won ,Foreign,13,6,14
+146,14* ,160,1,9,0,0,v South Africa ,Cape Town ,2-Jan-11,Test # 1988,2011,175,draw ,Foreign,146,14,1
+34,12,46,- ,- ,0,0,v England ,Lord's ,21-Jul-11,Test # 2000,2011,176,lost ,Foreign,34,12,2
+16,56,72,- ,- ,1,0,v England ,Nottingham ,29-Jul-11,Test # 2001,2011,177,lost ,Foreign,16,56,3
+1,40,41,0,17,1,0,v England ,Birmingham ,10-Aug-11,Test # 2003,2011,178,lost ,Foreign,1,40,4
+23,91,114,0,11,0,0,v England ,The Oval ,18-Aug-11,Test # 2004,2011,179,lost ,Foreign,23,91,5
+7,76,83,- ,- ,0,0,v West Indies ,Delhi ,6-Nov-11,Test # 2015,2011,180,won ,India,7,76,6
+38,,38,,,0,0,v West Indies ,Kolkata ,14-Nov-11,Test # 2017,2011,181,won ,India,38,0,7
+94,3,97,0,29,2,0,v West Indies ,Mumbai ,22-Nov-11,Test # 2019,2011,182,draw ,India,94,3,8
+73,32,105,- ,- ,0,0,v Australia ,Melbourne ,26-Dec-11,Test # 2025,2011,183,lost ,Foreign,73,32,9
+41,80,121,- ,- ,2,0,v Australia ,Sydney ,3-Jan-12,Test # 2027,2012,184,lost ,Foreign,41,80,1
+15,8,23,- ,- ,0,0,v Australia ,Perth ,13-Jan-12,Test # 2029,2012,185,lost ,Foreign,15,8,2
+25,13,38,- ,- ,1,0,v Australia ,Adelaide ,24-Jan-12,Test # 2031,2012,186,lost ,Foreign,25,13,3
+19,- ,19,0,6,0,0,v New Zealand ,Hyderabad (Deccan) ,23-Aug-12,Test # 2054,2012,187,won ,India,19,,4
+17,27,44,- ,- ,0,0,v New Zealand ,Bangalore ,31-Aug-12,Test # 2055,2012,188,won ,India,17,27,5
+13,DNB ,13,0,8,1,0,v England ,Ahmedabad ,15-Nov-12,Test # 2058,2012,189,won ,India,13,,6
+8,8,16,- ,- ,0,0,v England ,Mumbai ,23-Nov-12,Test # 2062,2012,190,lost ,India,8,8,7
+76,5,81,- ,- ,0,0,v England ,Kolkata ,5-Dec-12,Test # 2065,2012,191,lost ,India,76,5,8
+2,- ,2,- ,- ,0,0,v England ,Nagpur ,13-Dec-12,Test # 2066,2012,192,draw ,India,2,,9
+81,13* ,94,- ,- ,1,0,v Australia ,Chennai ,22-Feb-13,Test # 2074,2013,193,won ,India,81,13,1
+7,- ,7,- ,- ,0,0,v Australia ,Hyderabad (Deccan) ,2-Mar-13,Test # 2076,2013,194,won ,India,7,,2
+37,21,58,0,2,0,0,v Australia ,Mohali ,14-Mar-13,Test # 2081,2013,195,won ,India,37,21,3
+32,1,33,- ,- ,0,0,v Australia ,Delhi ,22-Mar-13,Test # 2085,2013,196,won ,India,32,1,4
+10,- ,10,1,23,0,0,v West Indies ,Kolkata ,6-Nov-13,Test # 2101,2013,197,won ,India,10,,5
+74,- ,74,- ,- ,0,0,v West Indies ,Mumbai ,14-Nov-13,Test # 2102,2013,198,- ,India,74,,6
